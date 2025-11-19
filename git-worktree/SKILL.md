@@ -1,6 +1,6 @@
 ---
 name: git-worktree
-description: Manages git worktrees including listing, creating, removing, and switching between worktrees. Use when the user mentions creating worktrees, new worktrees, parallel branches, or working on multiple branches simultaneously. 
+description: Manages git worktrees including listing, creating, removing, and switching between worktrees. Use when the user mentions creating worktrees, create a work tree, create worktree, new worktrees, parallel branches, or working on multiple branches simultaneously. 
 ---
 
 # Git Worktree Management Skill
